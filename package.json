@@ -1,0 +1,18 @@
+{
+  "name": "graphql_starter-auth_module",
+  "version": "1.0.0",
+  "description": "Auth module for Graphql Starter",
+  "main": "auth-type-defs.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "Olex Filipenko",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
